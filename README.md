@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yavuz Yılmaz</h1>
 <h3 align="center">A Senior Computer Science Student in Dokuz Eylul University/Turkey</h3>
+<h4 align="center">For now, Jr. backend developer</h4>
 
+<h5 align="center">Soon Jr. Full Stack Developer</h5>
+  
 <img align="right" alt="coding" width="200" src="https://media.giphy.com/media/XYO7OdpYzKyac/giphy.gif">
 
 - 🌱 I’m currently learning **React.js**
