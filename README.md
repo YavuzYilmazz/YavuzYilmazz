@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yavuz Yılmaz</h1>
 <h3 align="center">A Senior Computer Science Student in Dokuz Eylul University/Turkey</h3>
-<h4 align="center">For now, Jr. backend developer</h4>
+<h4 align="center">For now, Jr. Backend Developer</h4>
 
 <h5 align="center">Soon Jr. Full Stack Developer</h5>
   
