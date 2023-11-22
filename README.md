@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yavuz Yılmaz</h1>
 <h3 align="center">A Senior Computer Science Student in Dokuz Eylul University/Turkey</h3>
-<h4 align="center">For now, Jr.Full Stack Developer</h4>
+<h4 align="center">Jr.Full Stack Developer</h4>
 
 <img align="right" alt="coding" width="200" src="https://media.giphy.com/media/XYO7OdpYzKyac/giphy.gif">
 
