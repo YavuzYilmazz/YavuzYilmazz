@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yavuz Yılmaz</h1>
-<h3 align="center">Jr. Full Stack Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <img align="right" alt="coding" width="200" src="https://media.giphy.com/media/XYO7OdpYzKyac/giphy.gif">
 
-- 🌱 I’m currently learning **Java Spring**
+- 🌱 I’m currently learning **SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
