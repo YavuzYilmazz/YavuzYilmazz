@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="200" src="https://media.giphy.com/media/XYO7OdpYzKyac/giphy.gif">
 
-- 🌱 I’m currently learning **SQL**
+<!-- 🌱 I’m currently learning **SQL** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
