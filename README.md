@@ -42,8 +42,3 @@
   </a>
 
 </p>
-
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YavuzYilmazz&layout=compact&langs_count=8&theme=radical"/>
-</div>
